@@ -1,5 +1,5 @@
-# C4 Model Visio Stencil
-Visio stencil with shapes for creating C4 Model diagrams.
+# Kao Visio Stencil
+Visio stencil with shapes for creating Kaodiagrams.
 
 It comes in two variants: blue and blue/green (thanks to <a href="https://github.com/rabidgremlin">rabidgremlin</a>)
 
